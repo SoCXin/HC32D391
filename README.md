@@ -1,21 +1,22 @@
-﻿# [STM32F7](https://github.com/mcuyun/STM32F7) 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
-#### 厂商：[ST](https://github.com/sochub/ST) 
-#### 架构：[Cortex M7](https://github.com/sochub/CM7) 
-## [描述](https://github.com/sochub/STM32F7/wiki) 
+﻿# [HK32F031](https://github.com/SoCXin/HK32F031)
 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-[![sites](SoC/STM32F7.jpg)](https://www.st.com/zh/microcontrollers-microprocessors/STM32F7-series.html) 
+#### [Vendor](https://github.com/SoCXin/Vendor)：[HK](http://www.hsxp-hk.com/)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
+#### [Level](https://github.com/SoCXin/Level)：24MHz
 
+## [HK32F031简介](https://github.com/SoCXin/HK32F031/wiki)
 
+[HK32F031](https://github.com/SoCXin/HK32F031)
 
-###  [收录产品](https://github.com/sochub/STM32F7)  
+### [资源组成](https://github.com/SoCXin/HK32F031)
 
-* [STM32F730](https://github.com/sochub/STM32F730) 
-* [STM32F765](https://github.com/sochub/STM32F765) 
+* [文档](docs/)
+* [资源](src/)
 
-### [选型建议](https://github.com/sochub)
+### [选型建议](https://github.com/SoCXin)
 
+[HK32F031](https://github.com/SoCXin/HK32F031)
 
-##  [SoC资源平台](http://www.qitas.cn)   
-
+###  [SoC芯平台](http://www.SoC.Xin)
