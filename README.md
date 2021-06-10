@@ -1,24 +1,35 @@
-﻿# [HK32F031](https://github.com/SoCXin/HK32F031)
+﻿# [HC32D391](https://github.com/SoCXin/HC32D391)
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/SoCXin/Vendor)：[HK](http://www.hsxp-hk.com/)
-#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
-#### [Level](https://github.com/SoCXin/Level)：72MHz
+* [hdsc](https://www.hdsc.com.cn/)：[ARMv7-M:Cortex-M4](https://github.com/SoCXin/Cortex)
+* [L4R4](https://github.com/SoCXin/Level)：200MHz , 250DMIPS, [680Coremarks](https://www.eembc.org/coremark/scores.php)
 
-## [HK32F031简介](https://github.com/SoCXin/HK32F031/wiki)
+## [简介](https://github.com/SoCXin/HC32D391/wiki)
 
-[HK32F031](https://github.com/SoCXin/HK32F031)
+[HC32D391](https://www.hdsc.com.cn/Category83-1499)
+[![sites](docs/HC32D391.png)](https://www.hdsc.com.cn/Category83-1590)
 
-[![sites](docs/HK32F031.png)](https://github.com/SoCXin/HK32F031)
+#### 关键特性
 
-### [资源组成](https://github.com/SoCXin/HK32F031)
+* 4xI2S，内置音频 PLL支持音频级采样精度
+* 12bit 2.5MSPS ADC
+* USB 2.0 FS
+* 192KB SRAM, 512KB Flash
+* QSPI: 200Mbps XIP
+* 3xUSART
+* 可编程增益放大器（PGA）
 
-* [文档](docs/)
-* [资源](src/)
+
+### [资源收录](https://github.com/SoCXin)
+
+* [参考资源](src/)
+* [参考文档](docs/)
+* [参考工程](project/)
 
 ### [选型建议](https://github.com/SoCXin)
 
-[HK32F031](https://github.com/SoCXin/HK32F031)
+[HC32D391](https://github.com/SoCXin/HC32D391)
 
-###  [SoC芯平台](http://www.SoC.Xin)
+* QFN32 (4×4mm)
+###  [探索芯世界 www.SoC.xin](http://www.SoC.Xin)

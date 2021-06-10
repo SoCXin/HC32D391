@@ -1,0 +1,7 @@
+{
+    "name":"HC32D391",
+    "Core":"8051",
+    "description":"1T 8051 HC32D391 MCU",
+    "url":"https://github.com/SoCXin/HC32D391",
+    "version":"1.0.0"
+}
