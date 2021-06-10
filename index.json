@@ -1,7 +1,33 @@
 {
+    "type":"MCU",
     "name":"HC32D391",
-    "Core":"8051",
-    "description":"1T 8051 HC32D391 MCU",
-    "url":"https://github.com/SoCXin/HC32D391",
-    "version":"1.0.0"
+    "title": "HDSC HC32D391 MCU",
+    "description":"HDSC Cortex-M4 MCU",
+    "Core": {
+        "num": 1,
+        "type":"Cortex-M4",
+        "Freq":200,
+        "DMIPS": 250,
+        "CoreMark": 680
+    },
+    "manufacturer": {
+        "vendor":"HDSC",
+        "homepage":"https://www.hdsc.com.cn/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/HC32D391.git"
+    },
+    "version":"1.0.0",
+    "series":["HC32D391FEUA"],
+    "package":["QFN32"],
+    "peripheral": ["ADC","XIP","USB","USART","SPI","IIC"],
+    "keywords": [
+        "dev-platform",
+        "Cortex-M4",
+        "HDSC",
+        "Cortex-M4",
+        "USB","PGA","ADC","I2C","USART","SPI",
+        "3.6V","1.8V"
+    ]
 }
