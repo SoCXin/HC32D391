@@ -30,7 +30,7 @@
     },
     "keywords": [
         "Cortex-M4",
-        "XHSC",
+        "XHSC","40nm",
         "DAC","ADC","I2C","LVD","SPI","LPUSART"
     ]
 }
